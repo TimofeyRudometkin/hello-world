@@ -1,0 +1,7 @@
+C:\Облако\GitHub\TimofeyRudometkin\hello-world\EPAM.Task1\EPAM.Task1.Console\obj\Debug\EPAM.Task1.Console.csprojAssemblyReference.cache
+C:\Облако\GitHub\TimofeyRudometkin\hello-world\EPAM.Task1\EPAM.Task1.Console\obj\Debug\EPAM.Task1.Console.csproj.CoreCompileInputs.cache
+C:\Облако\GitHub\TimofeyRudometkin\hello-world\EPAM.Task1\EPAM.Task1.Console\bin\Debug\EPAM.Task1.Console.exe.config
+C:\Облако\GitHub\TimofeyRudometkin\hello-world\EPAM.Task1\EPAM.Task1.Console\bin\Debug\EPAM.Task1.Console.exe
+C:\Облако\GitHub\TimofeyRudometkin\hello-world\EPAM.Task1\EPAM.Task1.Console\bin\Debug\EPAM.Task1.Console.pdb
+C:\Облако\GitHub\TimofeyRudometkin\hello-world\EPAM.Task1\EPAM.Task1.Console\obj\Debug\EPAM.Task1.Console.exe
+C:\Облако\GitHub\TimofeyRudometkin\hello-world\EPAM.Task1\EPAM.Task1.Console\obj\Debug\EPAM.Task1.Console.pdb
