@@ -1,0 +1,7 @@
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.Triangle\bin\Debug\Epam.Task2.Triangle.exe.config
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.Triangle\bin\Debug\Epam.Task2.Triangle.exe
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.Triangle\bin\Debug\Epam.Task2.Triangle.pdb
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.Triangle\obj\Debug\Epam.Task2.Triangle.csproj.CoreCompileInputs.cache
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.Triangle\obj\Debug\Epam.Task2.Triangle.exe
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.Triangle\obj\Debug\Epam.Task2.Triangle.pdb
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.Triangle\obj\Debug\Epam.Task2.Triangle.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.X-mas_tree\bin\Debug\Epam.Task2.X-mas_tree.exe.config
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.X-mas_tree\bin\Debug\Epam.Task2.X-mas_tree.exe
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.X-mas_tree\bin\Debug\Epam.Task2.X-mas_tree.pdb
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.X-mas_tree\obj\Debug\Epam.Task2.X-mas_tree.csprojAssemblyReference.cache
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.X-mas_tree\obj\Debug\Epam.Task2.X-mas_tree.csproj.CoreCompileInputs.cache
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.X-mas_tree\obj\Debug\Epam.Task2.X-mas_tree.exe
+C:\Облако\GitHub\TimofeyRudometkin\XT-2018Q4\Epam.Task2\Epam.Task2.X-mas_tree\obj\Debug\Epam.Task2.X-mas_tree.pdb
